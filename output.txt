@@ -1,4 +1,3 @@
-```
 GitHub user name: MurataHimeko
 Last update time: 2024-01-07 10:46:40, triggered by inactivity of 15 days
 Main description:
@@ -11,5 +10,3 @@ MESSAGE2: 琪亚娜，我已经没有什么能教你的了。
 Value: 我已经没有什么能教你的了
 
 End of output
-
-```
